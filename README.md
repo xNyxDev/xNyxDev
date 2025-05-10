@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @xNyxDev
 - 👀 I’m interested in developement apps and more proyects.
-- 🌱 I’m working in my organization @teamsombra
   
 
 <!---
